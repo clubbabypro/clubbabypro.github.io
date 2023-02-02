@@ -1,7 +1,7 @@
 <template>
     <div>
       <!-- background image -->
-        <b-img src="../assets/home.jpg" fluid alt="Responsive image"></b-img>
+        <b-img :src="require('@/assets/home.jpg')" fluid alt="Responsive image"></b-img>
         <!-- <img alt="Responsive image" class="img-fluid" src="https://clubbabypro.github.io/hotpursuit/img/home.jpg"> -->
       <p></p>
     </div>

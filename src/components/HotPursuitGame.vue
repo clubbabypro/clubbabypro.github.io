@@ -5,7 +5,7 @@
         <b-row>
           <b-col class="d-flex align-items-center">
             <div>
-              <b-img src="../assets/in_game_phone.png" fluid alt="Responsive image"></b-img>
+              <b-img :src="require('@/assets/in_game_phone.png')" fluid alt="Responsive image"></b-img>
             </div>
           </b-col>
           <b-col class="d-flex align-items-center">

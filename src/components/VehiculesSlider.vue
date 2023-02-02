@@ -9,13 +9,13 @@
         :interval="3000"
     >
         <b-carousel-slide
-        img-src="../assets/pickup.png"
+        :img-src="require('@/assets/pickup.png')"
         ></b-carousel-slide>
         <b-carousel-slide
-        img-src="../assets/sport.png"
+        :img-src="require('@/assets/sport.png')"
         ></b-carousel-slide>
         <b-carousel-slide
-        img-src="../assets/camion.png"
+        :img-src="require('@/assets/camion.png')"
         ></b-carousel-slide>
     </b-carousel>
 </template>
