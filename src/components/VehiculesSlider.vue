@@ -8,31 +8,31 @@
         img-src="16by9"
         :interval="3000"
     >
-        <b-carousel-slide
-        img-src="https://clubbabypro.github.io/hotpursuit/img/pickup.png"
-        ></b-carousel-slide>
-        <b-carousel-slide
-        img-src="https://clubbabypro.github.io/hotpursuit/img/sport.png"
-        ></b-carousel-slide>
-        <b-carousel-slide
-        img-src="https://clubbabypro.github.io/hotpursuit/img/camion.png"
-        ></b-carousel-slide>
+        <b-carousel-slide>
+          <img alt="Responsive image" class="img-fluid" src="https://clubbabypro.github.io/hotpursuit/img/pickup.png">
+        </b-carousel-slide>
+        <b-carousel-slide>
+          <img alt="Responsive image" class="img-fluid" src="https://clubbabypro.github.io/hotpursuit/img/sport.png">
+        </b-carousel-slide>
+        <b-carousel-slide>
+          <img alt="Responsive image" class="img-fluid" src="https://clubbabypro.github.io/hotpursuit/img/camion.png">
+        </b-carousel-slide>
     </b-carousel>
 </template>
   
 <script>
   export default {
     name: 'VehiculesSlider',
-    data() {
-        return {
-        currentIndex: 0,
-        slides: [
-            { imgSrc: require("@/assets/pickup.png"), imgAlt: 'Image 1'},
-            { imgSrc: require("@/assets/sport.png"), imgAlt: 'Image 2'},
-            { imgSrc: require("@/assets/camion.png"), imgAlt: 'Image 3'}
-        ]
-        }
-    }
+    // data() {
+    //     return {
+    //     currentIndex: 0,
+    //     slides: [
+    //         { imgSrc: require("@/assets/pickup.png"), imgAlt: 'Image 1'},
+    //         { imgSrc: require("@/assets/sport.png"), imgAlt: 'Image 2'},
+    //         { imgSrc: require("@/assets/camion.png"), imgAlt: 'Image 3'}
+    //     ]
+    //     }
+    // }
   };
 </script>
   

@@ -5,7 +5,9 @@
         <b-row>
           <b-col class="d-flex align-items-center">
             <div>
-              <b-img src="../assets/in_game_phone.png" fluid alt="Responsive image"></b-img>
+              <img alt="Responsive image" class="img-fluid" src="https://clubbabypro.github.io/hotpursuit/img/in_game_phone.png">
+
+              <!-- <b-img src="../assets/in_game_phone.png" fluid alt="Responsive image"></b-img> -->
             </div>
           </b-col>
           <b-col class="d-flex align-items-center">
