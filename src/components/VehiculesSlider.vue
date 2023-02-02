@@ -9,13 +9,13 @@
         :interval="3000"
     >
         <b-carousel-slide
-        img-src="../assets/pickup.png"
+        img-src="https://clubbabypro.github.io/hotpursuit/img/pickup.png"
         ></b-carousel-slide>
         <b-carousel-slide
-        img-src="../assets/sport.png"
+        img-src="https://clubbabypro.github.io/hotpursuit/img/sport.png"
         ></b-carousel-slide>
         <b-carousel-slide
-        img-src="../assets/camion.png"
+        img-src="https://clubbabypro.github.io/hotpursuit/img/camion.png"
         ></b-carousel-slide>
     </b-carousel>
 </template>
