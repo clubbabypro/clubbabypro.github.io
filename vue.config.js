@@ -27,5 +27,5 @@ module.exports = {
   }
 }
 module.exports = {
-  publicPath: '/club_baby_pro/'
+  publicPath: '/'
 }
