@@ -4,8 +4,7 @@
         <h2>Information collected</h2>
         <p>No informations are collected</p>
         <h2>Contact</h2>
-        <p>Contact us by email at club.babypro[at]gmail[dot]com</p>
+        <p>Contact us by email at club.babypro@gmail.com</p>
     </div>
-
-  </template>
+</template>
   

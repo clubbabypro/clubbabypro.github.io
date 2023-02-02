@@ -29,7 +29,7 @@
       <b-container>
         <b-row>
           <b-col>
-            <p>Copyright ©2022 My Website</p>
+            <p>Copyright ©2023 Club Baby Pro</p>
           </b-col>
           <b-col class="text-right">
             <b-link href="https://play.google.com/store/apps/details?id=com.ClubBabyPro.HotPursuit" target="_blank" rel="noopener" class="text-decoration-none social-link">
