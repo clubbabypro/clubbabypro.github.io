@@ -1,8 +1,8 @@
 <template>
     <div>
       <!-- background image -->
-        <b-img src="../assets/home.jpg" fluid alt="Responsive image"></b-img>
-
+        <!-- <b-img src="../assets/home.jpg" fluid alt="Responsive image"></b-img> -->
+        <img alt="Responsive image" class="img-fluid" src="../assets/home.jpg">
       <p></p>
     </div>
   </template>

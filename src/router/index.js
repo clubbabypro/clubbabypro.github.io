@@ -22,7 +22,7 @@ const routes = [
   },
   {
     path: '/privacy',
-    name: '/privacy',
+    name: 'privacy',
     component: PrivacyView,
   }
 ]
