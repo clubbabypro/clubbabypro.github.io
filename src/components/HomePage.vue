@@ -1,6 +1,8 @@
 <template>
   <div class="hello">
+    <br/><br/>
     <h1>{{ languages[language].home_welcome }}</h1>
+    <br/>
     <p>
       {{ languages[language].home_team_description }}
     </p>
